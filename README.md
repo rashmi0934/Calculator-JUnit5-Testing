@@ -1,4 +1,4 @@
-# Java JUnit Parameterized Testing Practice
+# Java JUnit Parameterized Testing
 
 This project contains unit tests for a simple 'Calculator' class using **JUnit 5**.
 It demonstrates the use of **basic testing**, **parameterized tests**, and **exception handling**.
